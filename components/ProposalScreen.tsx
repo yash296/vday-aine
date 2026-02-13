@@ -85,7 +85,7 @@ export default function ProposalScreen({ onResponse }: ProposalScreenProps) {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-xl md:text-2xl text-primary mb-6 font-light tracking-wide"
         >
-          Alright Anie,
+          Alright Aine,
         </motion.p>
 
         <motion.h1

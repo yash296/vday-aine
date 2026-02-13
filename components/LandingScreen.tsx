@@ -64,7 +64,7 @@ export default function LandingScreen({ onContinue }: LandingScreenProps) {
         transition={{ duration: 1, delay: 1.2 }}
         className="mt-12 text-primary/50 text-sm md:text-base text-center relative z-10 tracking-wide"
       >
-        For Anie. Valentine's Day Edition.
+        For Aine. Valentine's Day Edition.
       </motion.p>
     </div>
   )
