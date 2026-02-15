@@ -157,7 +157,7 @@ export default function Celebration({ onRetry }: CelebrationProps) {
             >
               <span className="text-3xl flex-shrink-0">🎮</span>
               <div>
-                <p className="text-xl text-white font-semibold">Split Finction</p>
+                <p className="text-xl text-white font-semibold">Split Fiction</p>
                 <p className="text-white/70 text-sm">We're playing split fiction on my PS5</p>
               </div>
             </motion.div>
@@ -172,7 +172,7 @@ export default function Celebration({ onRetry }: CelebrationProps) {
             >
               <span className="text-3xl flex-shrink-0">☕</span>
               <div>
-                <p className="text-xl text-white font-semibold">Turtle Match at Home!</p>
+                <p className="text-xl text-white font-semibold">Turtle Matcha at Home!</p>
                 <p className="text-white/70 text-sm">Our ritual</p>
               </div>
             </motion.div>

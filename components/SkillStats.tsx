@@ -13,7 +13,6 @@ const skills = [
   { name: 'Clutch Factor', rating: 'Sage Main Energy', emoji: '🎮', value: 95 },
   { name: 'Coffee Addiction', rating: 'Professional Level', emoji: '☕', value: 99 },
   { name: 'Ramen Expertise', rating: 'Taste Bud Destroyer', emoji: '🍜', value: 97 },
-  { name: 'Match Gaming', rating: 'Serial Winner', emoji: '🎲', value: 94 },
   { name: 'Making Me Smile', rating: 'Permanent Smiles', emoji: '😊', value: 120 },
   { name: 'Running Speed', rating: 'I Quit at 2 Miles', emoji: '🏃', value: 92 },
   { name: 'Roasting Me', rating: 'Fairly Accurate', emoji: '🔥', value: 85 },
